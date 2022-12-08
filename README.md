@@ -1,5 +1,3 @@
-[“GH.st”]（https://githubstatus.com/）
-
 ----
 
 > 一切皆为能量之显现。
